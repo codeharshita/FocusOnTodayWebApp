@@ -11,9 +11,9 @@ const selectAllClass = document.getElementsByClassName("task-rect");
 const resetBtn = document.getElementById("resetButton");
 const congratulateGif = document.getElementsByClassName("hurray");
 
-const res = [...congratulateGif];
-const getImg = res[0].children[0];
-console.log(getImg);
+// const res = [...congratulateGif];
+// const getImg = res[0].children[0];
+// console.log(getImg);
 
 errorMessage.style.visibility = "hidden";
 
