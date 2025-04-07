@@ -9,7 +9,7 @@ const trackProgressValue = document.querySelector(".progress-bar-value");
 const tasKstatus = document.getElementById("status");
 const selectAllClass = document.getElementsByClassName("task-rect");
 const resetBtn = document.getElementById("resetButton");
-const congratulateGif = document.getElementsByClassName("hurray");
+// const congratulateGif = document.getElementsByClassName("hurray");
 
 // const res = [...congratulateGif];
 // const getImg = res[0].children[0];
@@ -69,8 +69,6 @@ function checkAllTasksCompleted() {
   ) {
     console.log("All tasks are done.");
     errorMessage.style.visibility = "hidden";
-    getImg.src = "./images/congratulations.gif";
-    getImg.width="100%";
    
     
   } else {
