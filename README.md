@@ -1,11 +1,3 @@
-<p>Project Link</p> https://focii-today.netlify.app/
-
-
-
-
-![Screenshot 2025-04-10 095846](https://github.com/user-attachments/assets/3d78309d-86d6-41cc-835f-fba426ae6f6a)
-
-
 # 🧘‍♂️ Focus on Today
 
 **Focus on Today** is a minimal, distraction-free productivity app built with pure **HTML, CSS, and JavaScript**. It helps users define and complete their **top 3 daily goals**, track real-time progress, and maintain focus on what truly matters.
@@ -38,6 +30,16 @@
 | JavaScript   | DOM manipulation, logic   |
 
 ---
+
+## 🔗 Live Demo
+
+👉 [Focus on Today](https://focii-today.netlify.app/)
+
+
+## 📸 Screenshot
+
+![Focus on Today Screenshot](https://github.com/user-attachments/assets/3d78309d-86d6-41cc-835f-fba426ae6f6a)
+
 
 
 
